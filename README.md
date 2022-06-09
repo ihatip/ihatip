@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @ihatip
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning React Native
